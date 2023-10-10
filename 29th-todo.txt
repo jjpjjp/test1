@@ -1,0 +1,13 @@
+Schuller shoes
+https://annexcloud.atlassian.net/browse/LS-1483
+https://annexcloud.atlassian.net/browse/IMP-5115
+
+Moen 
+https://annexcloud.atlassian.net/browse/IMP-5096
+https://fbgpgit.atlassian.net/browse/CM20-321 (New requirement) - Client JIRA
+
+Juice plus
+https://annexcloud.atlassian.net/browse/IMP-5100
+
+YGY:
+https://annexcloud.atlassian.net/browse/IMP-5077
